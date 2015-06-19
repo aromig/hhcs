@@ -1,0 +1,10 @@
+#banner, #banner .row { width: 100%; }
+#logo { width: 330px; }
+#searchbox { margin: 0; }
+#searchbox input { width: 50%; height: auto; }
+nav { clear: both; }
+#topnavbar.affix { position: static; }
+.jumbotron .row div { width: auto; }
+.clearfix { clear: both; }
+#body { width: auto; }
+#sidebar { width: 25%; }
